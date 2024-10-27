@@ -1,0 +1,1 @@
+This function sorts the tasks by priority, checks if dependencies are met, and assigns tasks to developers based on their skill level, available hours, and preferred task type. It also keeps track of any unassigned tasks.
